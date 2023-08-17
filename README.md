@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @solaiV003
-- 👀 I’m interested in ...DataScience_DataAnalytics_Python
-- 🌱 I’m currently learning ...python_DataScience
-- 💞️ I’m looking to collaborate on ...with other data scientist and data analyst
+- 👋 Hi, Iam aravindh 
 - 📫 How to reach me ...720721104013@hicet.ac.in
 
 <!---
